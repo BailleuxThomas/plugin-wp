@@ -4,7 +4,7 @@ Bonjour.
 
 Tout d'abord merci d'utiliser notre plugin.
 
-Pour qu'ils soient fonctionnel à 100%, veuillez couper les dossiers "Espace_Features" et "Repertoire_utilisateurs", et les collés à la racine du ftp.
+Pour qu'il soit fonctionnel à 100%, veuillez couper les dossiers "Espace_Features" et "Repertoire_utilisateurs", et les coller à la racine du ftp.
 
 Voir image
 
